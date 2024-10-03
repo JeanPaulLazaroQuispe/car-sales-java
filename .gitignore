@@ -1,0 +1,30 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Blueprints for IDEs
+/.idea/
+/*.iml
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+target/
+pom.xml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+nbproject/private/
+build/
+dist/
+
+# IntelliJ IDEA
+out/
